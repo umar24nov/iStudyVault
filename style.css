@@ -25,6 +25,10 @@ body {
     text-align: center;
     box-shadow: 0 5px 20px rgba(0,0,0,0.2);
   }
+
+  .main-card-content h1 {
+    margin: 5px auto;
+  }
   
   .main-card-content h2 {
     font-size: 2.5rem;
